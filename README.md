@@ -120,10 +120,10 @@ Top 5 Dishes by Revenue:
 
 | File Name | Description |
 |------------|-------------|
-| `DA6 Mock Interview Scenario's(Full Dataset 1).csv` | Raw dataset |
-| `TastyBites_Cleaned.xlsx` | Cleaned dataset ready for analysis |
-| `Tasty Bites Restaurant Data Insights Presentation.pptx` | Final presentation slides |
-| `README.md` | This file |
+| `TastyBites_EXCEL_Analysis_Charts.xlsx` | Contains cleaned raw data, summary, feedback, weather impact, menu performance, and customer trends |
+| `Tasty Bites Restaurant Data Insights Presentation.pptx` | Final presentation slides with visuals and key insights |
+| `README.md` | This file (project documentation) |
+
 
 ---
 
